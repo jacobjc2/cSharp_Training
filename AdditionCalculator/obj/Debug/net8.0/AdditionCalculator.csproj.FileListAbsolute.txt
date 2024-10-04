@@ -1,0 +1,14 @@
+C:\Users\jchristensenadmin\Documents\AppDevelopment\cSharp_Training\AdditionCalculator\bin\Debug\net8.0\AdditionCalculator.exe
+C:\Users\jchristensenadmin\Documents\AppDevelopment\cSharp_Training\AdditionCalculator\bin\Debug\net8.0\AdditionCalculator.deps.json
+C:\Users\jchristensenadmin\Documents\AppDevelopment\cSharp_Training\AdditionCalculator\bin\Debug\net8.0\AdditionCalculator.runtimeconfig.json
+C:\Users\jchristensenadmin\Documents\AppDevelopment\cSharp_Training\AdditionCalculator\bin\Debug\net8.0\AdditionCalculator.dll
+C:\Users\jchristensenadmin\Documents\AppDevelopment\cSharp_Training\AdditionCalculator\bin\Debug\net8.0\AdditionCalculator.pdb
+C:\Users\jchristensenadmin\Documents\AppDevelopment\cSharp_Training\AdditionCalculator\obj\Debug\net8.0\AdditionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jchristensenadmin\Documents\AppDevelopment\cSharp_Training\AdditionCalculator\obj\Debug\net8.0\AdditionCalculator.AssemblyInfoInputs.cache
+C:\Users\jchristensenadmin\Documents\AppDevelopment\cSharp_Training\AdditionCalculator\obj\Debug\net8.0\AdditionCalculator.AssemblyInfo.cs
+C:\Users\jchristensenadmin\Documents\AppDevelopment\cSharp_Training\AdditionCalculator\obj\Debug\net8.0\AdditionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jchristensenadmin\Documents\AppDevelopment\cSharp_Training\AdditionCalculator\obj\Debug\net8.0\AdditionCalculator.dll
+C:\Users\jchristensenadmin\Documents\AppDevelopment\cSharp_Training\AdditionCalculator\obj\Debug\net8.0\refint\AdditionCalculator.dll
+C:\Users\jchristensenadmin\Documents\AppDevelopment\cSharp_Training\AdditionCalculator\obj\Debug\net8.0\AdditionCalculator.pdb
+C:\Users\jchristensenadmin\Documents\AppDevelopment\cSharp_Training\AdditionCalculator\obj\Debug\net8.0\AdditionCalculator.genruntimeconfig.cache
+C:\Users\jchristensenadmin\Documents\AppDevelopment\cSharp_Training\AdditionCalculator\obj\Debug\net8.0\ref\AdditionCalculator.dll
